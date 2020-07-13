@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-       datos productor
+       datos productos
     </body>
 </html>

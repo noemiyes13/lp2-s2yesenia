@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        datos cliente
+        datos clientes
     </body>
 </html>
